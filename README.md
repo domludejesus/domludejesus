@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Front-End Development, AWS**
 
-- 📫 How to reach me Email will be best **domludejesus@gmail.com**
+- 📫 How to reach me Linked-in will be best 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

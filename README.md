@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominic DeJesus</h1>
-<h3 align="center">A passionate software developer from East Coast</h3>
+<h3 align="center">A passionate Front End Developer from East Coast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domludejesus&label=Profile%20views&color=0e75b6&style=flat" alt="domludejesus" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/domludejesus" target="blank"><img src="https://img.shields.io/twitter/follow/domludejesus?logo=twitter&style=for-the-badge" alt="domludejesus" /></a> </p>
 
-- 🌱 I’m currently learning **Ionic, React, Typescript**
+- 🌱 I’m currently learning **Ionic, React, Next.Js **
 
-- 💬 Ask me about **Front-End Development, AWS**
+- 💬 Ask me about **Front-End Development, and AWS**
 
 - 📫 How to reach me Linked-in will be best 
 

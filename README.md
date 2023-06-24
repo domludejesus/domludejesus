@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/domludejesus" target="blank"><img src="https://img.shields.io/twitter/follow/domludejesus?logo=twitter&style=for-the-badge" alt="domludejesus" /></a> </p>
 
-- 🌱 I’m currently learning **Ionic, React, Next.Js **
+- 🌱 I’m currently learning **Three.JS **
 
 - 💬 Ask me about **Front-End Development, and AWS**
 

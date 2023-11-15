@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/domludejesus" target="blank"><img src="https://img.shields.io/twitter/follow/domludejesus?logo=twitter&style=for-the-badge" alt="domludejesus" /></a> </p>
 
-- 🌱 I’m currently learning ** C# and .NET **
+- 🌱 I’m currently learning **C# and .NET**
 
 - 💬 Ask me about **Full Stack Development and AWS**
 

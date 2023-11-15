@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Three.JS **
 
-- 💬 Ask me about **Front-End Development, and AWS**
+- 💬 Ask me about **Full Stack Development and AWS**
 
 - 📫 How to reach me Linked-in will be best 
 
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=domludejesus&show_icons=true&locale=en&layout=compact" alt="domludejesus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=domludejesus&show_icons=true&locale=en" alt="domludejesus" /></p>
+![domludejesus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=domludejesus&theme=merko&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=domludejesus&" alt="domludejesus" /></p>
+![domludejesus's Stats](https://github-readme-stats.vercel.app/api?username=domludejesus&theme=merko&show_icons=true&hide_border=true&count_private=true)

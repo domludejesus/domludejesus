@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominic DeJesus</h1>
-<h3 align="center">A passionate Full Stack Developer from East Coast</h3>
+<h3 align="center">A passionate Full Stack Developer from the East Coast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domludejesus&label=Profile%20views&color=0e75b6&style=flat" alt="domludejesus" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/domludejesus" target="blank"><img src="https://img.shields.io/twitter/follow/domludejesus?logo=twitter&style=for-the-badge" alt="domludejesus" /></a> </p>
 
-- 🌱 I’m currently learning **Three.JS **
+- 🌱 I’m currently learning ** C# and .NET **
 
 - 💬 Ask me about **Full Stack Development and AWS**
 
-- 📫 How to reach me Linked-in will be best 
+- 📫 Connect with me on Linked-in for the best response 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
